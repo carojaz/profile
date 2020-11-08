@@ -64,7 +64,7 @@ p {
 
 .card {
   margin: 10px;
-  background: #F8F5F1;
+  background: white;
   border: 1px solid gray;
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
@@ -73,7 +73,7 @@ p {
 
 .card-info {
   margin: 15px auto;
-  background: #F0EFEB;
+  background: white;
   border: 0.5px solid gray;
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
