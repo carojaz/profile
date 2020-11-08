@@ -1,7 +1,7 @@
 body {
-  background-color: F8F5F1;
+  background-color: #E2C8B6;
   font-family: 'Montserrat', sans-serif;
-  color: 0D0908;
+  color: #0D0908;
   font-size: 16px;
   line-height: 20px;
   text-align: center;
@@ -23,7 +23,7 @@ h2 {
 h3 {
   font-size: 18px;
   line-height: 5px;
-  color: A5A58D;
+  color: #A5A58D;
 }
 
 a {
@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: CB997E;
+  color: #CB997E;
 }
 
 p {
@@ -41,30 +41,30 @@ p {
 
 .button {
   text-decoration: none;
-  color: F0EFEB;
+  color: #F0EFEB;
   padding: 5px;
-  background-color: A5A58D;
+  background-color: #A5A58D;
   border-radius: 5px;
   font-weight: 300px;
 }
 
 .button:hover {
   text-decoration: none;
-  color: F0EFEB;
+  color: #F0EFEB;
   padding: 5px;
-  background-color: B7B7A4;
+  background-color: #B7B7A4;
   border-radius: 5px;
   font-weight: 300px;
 }
 
 .container {
-  width: 60%;
+  width: 900px;
   margin: 20px auto;
 }
 
 .card {
   margin: 10px;
-  background: E2C8B6;
+  background: #F8F5F1;
   border: 1px solid gray;
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
@@ -73,7 +73,7 @@ p {
 
 .card-info {
   margin: 15px auto;
-  background: E2C8B6;
+  background: #F0EFEB;
   border: 0.5px solid gray;
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
@@ -106,8 +106,11 @@ ul {
 
 .avatar {
   border-radius: 50%;
-  width: 15%;
+  width: 5em;
+  height: 5em;
+  object-fit: cover;
   margin: 15px;
+  box-shadow: 0px 0px 5px #A5A58D;
 }
 
 .card-info img {
