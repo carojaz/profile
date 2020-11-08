@@ -69,6 +69,7 @@ p {
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
   padding: 15px;
+  text-align: center;
 }
 
 .card-info {
@@ -78,7 +79,8 @@ p {
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
   padding: 1px;
-  width: 80%;
+  width: 600px;
+
 }
 
 ul {
@@ -118,6 +120,7 @@ ul {
   border-radius: 2%;
   margin: 5px;
   float: left;
+  padding: 0.5em;
 }
 
 .gif {
